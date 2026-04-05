@@ -70,6 +70,3 @@ npm run dev
 3. Create a new room or join an existing room
 4. Share the room link/ID with others
 5. Start coding together in real-time
-
-```
-```
